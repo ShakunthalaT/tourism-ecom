@@ -1,0 +1,22 @@
+.nav-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.items-container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 100%;
+   max-width: 1140px;
+}
+
+.ul-container{
+    list-style-type: none;
+    display: flex;
+}
+.list-item {
+    margin-right: 10px;
+  
+}

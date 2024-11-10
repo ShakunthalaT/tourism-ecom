@@ -1,0 +1,123 @@
+.item-1{
+    width: 310px;
+    height:50px;
+   margin-right: 40px;
+   margin-bottom: 40px;
+}
+
+.cards-container{
+    display:flex
+}
+.home-container{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width:1140px ;
+    margin: auto;
+    text-align: center;
+    min-height: 200vh;
+   
+}
+.thumbnail-img{
+    width:300px;
+    height:300px;
+}
+.profile{
+    width:60px;
+    height:62px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.discover{
+    margin-bottom:50% ;
+}
+.service-card-1{
+    width:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.services-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.tourism-card-view{
+    width: 90%;
+    max-width: 1140px;
+    background-color: #D3D3D3;
+    height: 300px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items:center ;
+
+}
+.check-in-book-card{
+    display: flex;
+    height:30px;
+    background-color: #fff;
+    width:300px;
+}
+ .count{
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    padding-top: 0px;
+ } 
+
+ .book-btn{
+    color:#fff;
+    background-color: #3266a8;
+    margin-left: 38px;
+    border: none;
+    outline: none;
+    padding: 15px 30px 15px 30px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 4px;
+ }
+
+.main-img{
+    width: 800px;
+    height:300px;
+    position: static;
+    margin-left: 15%;
+}
+.work-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+}
+.check-in-book-card{
+    display: flex;
+    background-color: #fff;
+    width:600px;
+    height: 40px;
+    border-radius: 4px;
+    padding: 20px;
+    position:absolute;
+}
+.date{
+    border: none;
+    outline: none;
+}
+.room{
+    display: flex;
+}
+.book-container{
+    margin-top: 30px;
+   
+}
+.in-btn{
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-right: 5px;
+}
+.de-btn{
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-left: 5px;
+}

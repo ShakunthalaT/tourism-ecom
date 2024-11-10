@@ -1,0 +1,84 @@
+.booking-container{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 1140px;
+    margin: auto;
+    margin-bottom: 66px;
+    
+}
+
+.user-details-container{
+    background-color: #D3D3D3;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items:center ;
+    height: 40vh;
+    margin-top: 10px; 
+    padding-top: 5px;
+    
+}
+.price-btn{
+    color:#fff;
+    background-color: #3266a8;
+    margin-left: 38px;
+    border: none;
+    outline: none;
+    padding: 15px 30px 15px 30px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 4px;
+}
+
+.check-in-card{
+  display: flex;
+  background-color: #fff;
+  width:600px;
+  height: 40px;
+  border-radius: 4px;
+  padding: 20px;
+ 
+}
+.room-amount-container{
+    display: flex;
+   
+}
+
+.room-container{
+    margin-right: 40px;
+}
+.price-container{
+    margin-top: 12px;
+}
+.input-container{
+    display: flex;
+    width:600px;
+    flex-wrap: wrap;
+   
+}
+.input-el{
+    border: none;
+    outline: none;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    height:50px;
+    width:200px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 4px;
+   
+}
+.input-el-container{
+    display: flex;
+}
+.input-el-1{
+   width: 110px;
+   margin-right: 8px;
+   height:50px;
+   border: none;
+   outline: none;
+   padding-left: 5px;
+   padding-right:5px ;
+   border-radius: 4px;
+}
